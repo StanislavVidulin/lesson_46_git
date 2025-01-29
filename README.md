@@ -6,7 +6,7 @@
 4. Зарегистрироваться на GitHub (или использовать уже существующий аккаунт, если есть) - https://github.com/
 5. Привязать Idea к аккаунту на GitHub (File - Settings - Version Control - GitHub)
 6. Настроить терминал (File - Settings - Tools - Terminal), например, выбрать bash.exe
-7. Зарегистрировать в Git ваши имя пользователя и емейл
+7. Зарегистрировать в Git ваши имя пользователя и Eмейл
 
 ````
 git config --global user.email "your_email@example.com"
